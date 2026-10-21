@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "cython-test-exception-raiser",
+  "versions": [
+    {
+      "commit": "c0c28994d522a8eb650189fc6f9ce1d91a0bc268",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:05:11.671504+00:00"
+    }
+  ]
+}
