@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "twisted",
+  "repo": "cython-test-exception-raiser",
+  "versions": [
+    {
+      "commit": "c0c28994d522a8eb650189fc6f9ce1d91a0bc268",
+      "parsed_at": "2026-10-21T22:02:30.088446+00:00",
+      "filetree": "filetree/c0c28994d522a8eb650189fc6f9ce1d91a0bc268.nq.gz",
+      "blobs": [
+        "blob/0604c6c7fb5133f7ff134d239532636658fe9f01.nq.gz",
+        "blob/2bdddf994b00769e093ce1ff173c71cc54c03db0.nq.gz",
+        "blob/f740060fa7649975a960471684a07192c46f78a9.nq.gz",
+        "blob/3bf688e76fc22680107055ccd0631a9b8c330ba9.nq.gz",
+        "blob/7f36245e6642b7535b65837b41520c3e32089755.nq.gz",
+        "blob/56c9bf6143f8d5b7ecaaf40e8123487d01f3d36d.nq.gz",
+        "blob/cc0af6aa7126a5a3e53cc9550ea965e28cafa11c.nq.gz",
+        "blob/580084011b804f591883220c82da545ef4d0791d.nq.gz",
+        "blob/5c44c970c821c153f84b60ac146673b5e6778a44.nq.gz",
+        "blob/86dc17d9dd587983ea8cfa55f0bb03159da18375.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b35069f7efff04f103a10b2874b0d29bf9c36490.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
