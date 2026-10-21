@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/cython-test-exception-raiser/commit/c0c28994d522a8eb650189fc6f9ce1d91a0bc268",
       "git:hexsha": "c0c28994d522a8eb650189fc6f9ce1d91a0bc268",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:05:11.671155+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/cython-test-exception-raiser/commit/07893165d703c8aec3f9a741bc3a107103033d61",
